@@ -82,6 +82,8 @@ Coursera - Supervised Machine Learning Stanford University
 
 Coursera - Advanced Learning Algorithms Stanford University
 
+Coursera - Unsupervised Learning, Recommenders, Reinforcement Learning Stanford University
+
 Coursera - Developing AI Applications with Python and Flask by IBM
 
 Coursera - Generative AI by Google Cloud

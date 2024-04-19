@@ -55,11 +55,6 @@ Winners at the National Level Project Exhibition, "The Idea Explorer 2023" at SR
 Integrated Artificial Intelligence Model with Microsoft LIDA to our Application .This innovative technology helped to
 automatically generate visualizations and infographics with LLMs using the bussiness data.
 
-Winners at HackStreet2.0 by Bajaj Finserv and NextGen AI
--
-Integrated anomaly detection system with Roboflow, utilizing Flask and OpenCV to process images and create Regions of
-Interest (ROI). Employed Language Model (LLM) for contextual analysis, enhancing diagnostic accuracy and patient care.
-
 Winners at Concepto-23
 -
 Demonstrated a Payment Facilitating and Navigation Assisstant G.O.J.O to help Visually Challenged Vendors and
